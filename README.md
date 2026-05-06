@@ -1,4 +1,3 @@
-````markdown
 # IS370 Secure Chat Application
 
 A Python client-server chat application developed for the IS370 course project.  
